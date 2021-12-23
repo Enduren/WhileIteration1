@@ -1,0 +1,14 @@
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\bin\Debug\netcoreapp3.1\WhileIteration1.exe
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\bin\Debug\netcoreapp3.1\WhileIteration1.deps.json
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\bin\Debug\netcoreapp3.1\WhileIteration1.runtimeconfig.json
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\bin\Debug\netcoreapp3.1\WhileIteration1.runtimeconfig.dev.json
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\bin\Debug\netcoreapp3.1\WhileIteration1.dll
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\bin\Debug\netcoreapp3.1\WhileIteration1.pdb
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\obj\Debug\netcoreapp3.1\WhileIteration1.csproj.AssemblyReference.cache
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\obj\Debug\netcoreapp3.1\WhileIteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\obj\Debug\netcoreapp3.1\WhileIteration1.AssemblyInfoInputs.cache
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\obj\Debug\netcoreapp3.1\WhileIteration1.AssemblyInfo.cs
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\obj\Debug\netcoreapp3.1\WhileIteration1.csproj.CoreCompileInputs.cache
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\obj\Debug\netcoreapp3.1\WhileIteration1.dll
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\obj\Debug\netcoreapp3.1\WhileIteration1.pdb
+C:\Users\dtenn\Desktop\C#np\C#\SelC#\C#nw\WhileIteration1\WhileIteration1\obj\Debug\netcoreapp3.1\WhileIteration1.genruntimeconfig.cache
